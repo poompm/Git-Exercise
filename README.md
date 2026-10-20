@@ -24,7 +24,8 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: Poom Ratsamewesarat 
+Name: Poom Ratsamewesarat
+ 
 Email: 6970224821@student.chula.ac.th
 
 🖼️ 2. Picture
